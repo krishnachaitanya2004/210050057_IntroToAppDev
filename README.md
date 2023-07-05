@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Gett
+## Getting Started
 
 This project is a starting point for a Flutter application.
 Download app from here(make sure you have access downloading from google-drive)
