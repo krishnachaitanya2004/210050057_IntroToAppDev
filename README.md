@@ -1,16 +1,13 @@
-# application_1
+## Simple Flutter application
 
 A new Flutter project.
 
-## Getting Started
+## Gett
 
 This project is a starting point for a Flutter application.
+Download app from here(make sure you have access downloading from google-drive)
+Note: This is only for android
 
-A few resources to get you started if this is your first Flutter project:
+link : https://drive.google.com/file/d/1nWcthbQq_F0WdpFGc9VBuiYKssWfuq0x/view?usp=sharing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For run this in your make sure you installed flutter in your system and clone this repo and run in it vs code us (F5)
