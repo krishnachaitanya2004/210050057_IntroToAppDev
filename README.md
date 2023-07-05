@@ -10,4 +10,4 @@ Note: This is only for android
 
 link : https://drive.google.com/file/d/1nWcthbQq_F0WdpFGc9VBuiYKssWfuq0x/view?usp=sharing
 
-For run this in your make sure you installed flutter in your system and clone this repo and run in it vs code us (F5)
+For running this in your system make sure you installed flutter in your system and clone this repo and run in it vs code us (F5)
